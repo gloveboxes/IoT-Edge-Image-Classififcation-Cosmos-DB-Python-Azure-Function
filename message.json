@@ -1,0 +1,14 @@
+[
+    {"boundingBox": None, "probability": 1.0000000116860974e-07, "tagId": "", "tagName": "Avocado"
+    },
+    {"boundingBox": None, "probability": 2.069000038318336e-05, "tagId": "", "tagName": "Banana"
+    },
+    {"boundingBox": None, "probability": 0.9990828037261963, "tagId": "", "tagName": "Green Apple"
+    },
+    {"boundingBox": None, "probability": 0.000614509976003319, "tagId": "", "tagName": "Hand"
+    },
+    {"boundingBox": None, "probability": 1.3130000297678635e-05, "tagId": "", "tagName": "Orange"
+    },
+    {"boundingBox": None, "probability": 0.0002686399966478348, "tagId": "", "tagName": "Red Apple"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "AzureIotHubCosmosDB.zip",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack",
+    "python.pythonPath": "c:\\Data\\GitHub\\python-function-iothub-cosmosdb\\AzureIotHubCosmosDB\\.venv\\Scripts\\python.exe",
+    "python.dataScience.jupyterServerURI": "local"
+}
